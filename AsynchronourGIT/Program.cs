@@ -11,7 +11,7 @@ class Program
          
 
         var result2 = LongProcess2();
-
+        var res1 = await LongProcess3();    
 
         Console.WriteLine("After two long processes.");
 
@@ -42,5 +42,16 @@ class Program
         return 20;
     }
 
-    
+    static async Task<int> LongProcess3()
+    {
+        Console.WriteLine("LongProcess 3 Started");
+
+        await Task.Delay(4000); // hold  4 seconds
+
+        Console.WriteLine("LongProcess 3 Completed");
+
+        return 20;
+    }
+
+
 }
