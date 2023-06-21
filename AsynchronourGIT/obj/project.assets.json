@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sriramanr\\.nuget\\packages\\": {}
+    "C:\\Users\\idahopep\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sriramanr\\Source\\Repos\\ASYNCHRONOUS\\AsynchronourGIT\\AsynchronourGIT.csproj",
+      "projectUniqueName": "C:\\Users\\idahopep\\Desktop\\Training\\.Net\\Tutorial\\Git\\ASYNCHRONOUS\\AsynchronourGIT\\AsynchronourGIT.csproj",
       "projectName": "AsynchronourGIT",
-      "projectPath": "C:\\Users\\sriramanr\\Source\\Repos\\ASYNCHRONOUS\\AsynchronourGIT\\AsynchronourGIT.csproj",
-      "packagesPath": "C:\\Users\\sriramanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sriramanr\\Source\\Repos\\ASYNCHRONOUS\\AsynchronourGIT\\obj\\",
+      "projectPath": "C:\\Users\\idahopep\\Desktop\\Training\\.Net\\Tutorial\\Git\\ASYNCHRONOUS\\AsynchronourGIT\\AsynchronourGIT.csproj",
+      "packagesPath": "C:\\Users\\idahopep\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\idahopep\\Desktop\\Training\\.Net\\Tutorial\\Git\\ASYNCHRONOUS\\AsynchronourGIT\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sriramanr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\idahopep\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
