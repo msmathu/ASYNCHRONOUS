@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OY8rZgGYPQ3WF3FgSj2nUKpQKuQIlU7stesIbiw4fJG373Wl8YfK/GI7Vcpn/l4ugAFqeytqMyi5+TwCHZ88A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madhusuthananm\\source\\repos\\AsynchronourGIT\\AsynchronourGIT\\AsynchronourGIT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madhusuthananm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\madhusuthananm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\madhusuthananm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\madhusuthananm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
