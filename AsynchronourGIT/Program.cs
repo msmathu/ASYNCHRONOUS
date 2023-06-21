@@ -11,7 +11,7 @@ class Program
          
 
         var result2 = LongProcess2();
-        var res1 = await LongProcess3();    
+        var result3 = await LongProcess3();    
 
         Console.WriteLine("After two long processes.");
 
